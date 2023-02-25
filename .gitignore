@@ -3,7 +3,7 @@
 *.pyc
 __pycache__
 venv/
-videos/
+videos/*
 local_settings.py
 media/
 static/
